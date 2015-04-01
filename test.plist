@@ -17,11 +17,11 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.unicom.MOA</string>
+<string>com.unicom.addressbook</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>MOA系统</string>
+<string>address</string>
 </dict>
 </dict>
 </array>
