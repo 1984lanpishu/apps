@@ -11,13 +11,13 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://172.16.8.17:8080/weather/gxj/addressbook2.ipa</string>
+<string>http://172.16.8.17:8080/weather/gxj/moa2.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.unicom.addressbook</string>
+<string>com.unicom.MOA</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
